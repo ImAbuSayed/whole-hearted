@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whole-hearted/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Whole Hearted](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-hearted/) |
+| **Get License** | [Get a Licensing Quote for Whole Hearted](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-hearted/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you pull me near
+> Losing track of the time while we're standing here
+> It's a slow burn fire in the dark of the room
+> Got me wrapped in the scent of your sweet perfume
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
